@@ -1137,5 +1137,14 @@ export default {
     "friend-tech": {
         "enabled": true,
         "id": "3377"
+    },
+    "fusionx-v2": {
+        parentId: "FusionX Finance",
+        enabled: true,
+        id: "3238"
+    },
+    "vertex-protocol": {
+        "enabled": true,
+        "id": "2899"
     }
 } as AdaptorsConfig
